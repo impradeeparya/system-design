@@ -18,3 +18,6 @@
 3. Number of records 100 million * 365 = 36.5 billion records per year
 4. Data size 36.5 billion * 150 bytes = 5475 billion bytes = 5475 GB
 
+
+### Fetch original URL
+![Image fetch original URL](https://github.com/impradeeparya/system-design/blob/main/url-shortener/get-tiny-url.png)

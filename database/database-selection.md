@@ -30,6 +30,7 @@ We can select distributed database on the basis of CAP theorem
 2. Read/Write operation will be on primary node only.
 3. Data replication will be from primary node to secondary node.
 4. In case of primary goes down, system will be unavailable until new leader comes up.
+5. Replication factor 2
 
 - [x] Consistency
 - [ ] Availability
@@ -43,6 +44,7 @@ We can select distributed database on the basis of CAP theorem
 3. Read opertaion will be on both primary and secondary node.
 4. Data replication will be from primary node to secondary node.
 5. Consistency will be eventual.
+6. Replication factor 2
 
 - [ ] Consistency
 - [x] Availability
@@ -55,3 +57,5 @@ We can select distributed database on the basis of CAP theorem
 - [ ] Conistency
 - [x] Availablity
 - [x] Partition tolerance
+
+![Image AP](https://github.com/impradeeparya/system-design/blob/main/database/ap-with-cassandra.png)

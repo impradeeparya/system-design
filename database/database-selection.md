@@ -48,6 +48,8 @@ We can select distributed database on the basis of CAP theorem
 - [x] Availability
 - [x] Partition tolerance
 
+![Image MongoDB AP](https://github.com/impradeeparya/system-design/blob/main/database/ap-with-mongodb.png)
+
 
 ## Cassandra
 - [ ] Conistency

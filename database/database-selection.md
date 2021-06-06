@@ -1,5 +1,5 @@
 # Database selection
-We can select distributed database on the basis of CAP theorem
+We can select distributed database on the basis of CAP theorem. Tradoff is only between consistency and availability beacuse partition tolerance is must in case of distributed system
 ## CAP 
 ```Consistency Availability Partition tolerance```
 - Consistency : All nodes should have same value

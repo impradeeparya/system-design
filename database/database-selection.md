@@ -7,3 +7,38 @@ We can select distributed database on the basis of CAP theorem
 - Partition tolerance : System should able to work if network goes down between two nodes
 
 ![Image CAP theorem](https://github.com/impradeeparya/system-design/blob/main/database/cap.png)
+
+
+## Relational database management system
+- [x] Consistency 
+- [x] Availability
+- [ ] Partition tolerance
+
+
+## Mongo DB default configuration
+1. Primary secondary node configuration.
+2. Read/Write operation will be on primary node only.
+3. Data replication will be from primary node to secondary node.
+4. In case of primary goes down, system will be unavailable until new leader comes up.
+
+- [x] Consistency
+- [ ] Availability
+- [x] Partition tolerance
+
+
+## Mongo DB custom configuration
+1. Primary secondary node configuration.
+2. Write operation will be on primary node only
+3. Read opertaion will be on both primary and secondary node.
+4. Data replication will be from primary node to secondary node.
+5. Consistency will be eventual.
+
+- [ ] Consistency
+- [x] Availability
+- [x] Partition tolerance
+
+
+## Cassandra
+- [ ] Conistency
+- [x] Availablity
+- [x] Partition tolerance

@@ -6,3 +6,4 @@ We can select distributed database on the basis of CAP theorem
 - Availability : Every request will get the response
 - Partition tolerance : System should able to work if network goes down between two nodes
 
+![Image CAP theorem](https://github.com/impradeeparya/system-design/blob/main/database/cap.png)

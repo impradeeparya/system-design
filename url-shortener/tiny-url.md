@@ -21,3 +21,7 @@
 
 ### Fetch original URL
 ![Image fetch original URL](https://github.com/impradeeparya/system-design/blob/main/url-shortener/get-tiny-url.png)
+
+### Create tiny URL
+![Image create tiny URL](https://github.com/impradeeparya/system-design/blob/main/url-shortener/post-tiny-url.png)
+

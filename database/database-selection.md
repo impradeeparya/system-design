@@ -24,6 +24,7 @@ We can select distributed database on the basis of CAP theorem
 - [x] Consistency
 - [ ] Availability
 - [x] Partition tolerance
+![Image CP](https://github.com/impradeeparya/system-design/blob/main/database/cp.png)
 
 
 ## Mongo DB custom configuration

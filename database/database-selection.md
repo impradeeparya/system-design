@@ -9,10 +9,20 @@ We can select distributed database on the basis of CAP theorem
 ![Image CAP theorem](https://github.com/impradeeparya/system-design/blob/main/database/cap.png)
 
 
-## Relational database management system
+## RDBMS default configuration
 - [x] Consistency 
 - [x] Availability
 - [ ] Partition tolerance
+
+![Image CA](https://github.com/impradeeparya/system-design/blob/main/database/ca.png)
+
+
+## RDBMS with failover
+- [ ] Consistency 
+- [x] Availability
+- [x] Partition tolerance
+
+![Image AP with failover](https://github.com/impradeeparya/system-design/blob/main/database/ap-with-failover.png)
 
 
 ## Mongo DB default configuration

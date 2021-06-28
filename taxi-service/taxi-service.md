@@ -47,4 +47,4 @@
 
 
 ### Design diagram
-![Image]()
+![Image](https://github.com/impradeeparya/system-design/blob/main/taxi-service/taxi-service.png)

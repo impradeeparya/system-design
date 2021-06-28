@@ -23,15 +23,20 @@
     - mange drive data
     - provide payment information by intracting with payment service
     - use SQL to store drive data
-3. Cab finder service
-    - help user to get cab for given latitude and longitute
+3. Taxi finder service
+    - help user to get 
+    for given latitude and longitute
     - interact with location service to get user location and drives near by
     - interact with trip service to update trip infromation
 4. Location service
     - manage information about drive and drive location
     - helps to find location on the basis of latituted and longitute
-5. Cab request service
-    - helps customer to initiate process of cab booking on the basis of source and destination
+5. Taxi request service
+    - helps customer to initiate process of taxi booking on the basis of source and destination
+    - fetch customer location by intracting with location servicce
+    - fetch near area of cutomer location
+    - fetch drivers present in those area
+    - assign driver to customer
 6. Trip service
     - manages information about customer trips
     - use SQL to store information for transactional data consistency

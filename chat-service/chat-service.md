@@ -26,6 +26,10 @@
 4. User service
     - Manage user data
     - Store user information in RDBMS
-5. Last seen service
+5. User activity service
     - Store information about user last seen
     - Handles high writes
+
+
+## Design
+![Image](https://github.com/impradeeparya/system-design/blob/main/chat-service/chat-service.png)

@@ -20,3 +20,7 @@
 3. Timeline service
 4. Resource service
 5. Activity service
+
+
+### Design
+![Image](https://github.com/impradeeparya/system-design-hld/blob/main/social-media/social-media.png)

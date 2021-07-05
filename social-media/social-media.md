@@ -10,6 +10,13 @@
 7. Activity log
 
 
-## Non functional requirement
+### Non functional requirement
 1. Read heavy
 2. Scalable
+
+### Services
+1. User service
+2. Post service
+3. Timeline service
+4. Resource service
+5. Activity service

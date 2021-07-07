@@ -24,3 +24,4 @@
 
 
 ### Design
+![Image](https://github.com/impradeeparya/system-design-hld/blob/main/video-streaming-platform/video-streaming-platform.png)

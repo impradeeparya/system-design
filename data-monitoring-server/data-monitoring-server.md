@@ -24,6 +24,7 @@
 ## Time series database
 1. Sliding window - moves through table, one row at a time
 2. Tumbling window - move entire window to next non overlaping window
+3. Denormaliase data - pre-join table for query
 
 
 # Design

@@ -21,6 +21,10 @@
 3. Data query service
 4. Alert manager
 
+## Time series database
+1. Sliding window - moves through table, one row at a time
+2. Tumbling window - move entire window to next non overlaping window
+
 
 # Design
 ![Image](https://github.com/impradeeparya/system-design-hld/blob/main/data-monitoring-server/data-monitoring-server.png)

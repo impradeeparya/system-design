@@ -19,3 +19,7 @@
 2. Data Storage service
 3. Data query service
 4. Alert manager
+
+
+# Design
+![Image](https://github.com/impradeeparya/system-design-hld/blob/main/data-monitoring-server/data-monitoring-server.png)

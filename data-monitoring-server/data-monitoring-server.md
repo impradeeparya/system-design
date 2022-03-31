@@ -1,10 +1,11 @@
 ### Data monitoring server
 
 ## Functional requirement
-1. Count metrics
-2. Histogram
-3. Gauge metrics
-4. System metrics
+1. Count - monotonically increasing accumulator
+2. Histogram - count of items over bucket
+3. Gauge - numerical measure that can go up and down
+4. Summary - calculate values over time window, such as count or rates
+5. System metrics
 
 
 ## Non functional requirement
